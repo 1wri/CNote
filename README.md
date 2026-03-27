@@ -1,10 +1,12 @@
 # CNote
 「CNote」一份涵盖大部分学习 C 语言所需要掌握的核心知识，致力于打造最易懂的 C语言入门教程，让天下没有难学的 C语言。（包含C语言教程、C语言精华文章）
 
-资料在下方百度网盘链接
+## 资料在下方百度网盘链接
+
 链接: https://pan.baidu.com/s/16iYB_kKjoLsvUKqfF27Rlg?pwd=rvyi 提取码: rvyi --来自百度网盘超级会员v3的分享
 
-项目合集(项目不断更新中，包含java、vue、python、Android、微信小程序等项目)
+### 项目合集(项目不断更新中，包含java、vue、python、Android、微信小程序等项目)
+
 链接: https://pan.baidu.com/s/1nY-zhvAK0CXYcn3g7LzQnQ?pwd=id3c 提取码: id3c --来自百度网盘超级会员v3的分享
 
 这些项目一起发你了 可以分享给你需要的同学 调试可找我 也接二次修改和项目定制、毕业设计等
